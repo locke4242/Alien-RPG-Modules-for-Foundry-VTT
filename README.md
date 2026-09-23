@@ -47,7 +47,7 @@ DHDistances.Toggle({ mode: 'both' }); // Show both 3D and 2D distances
 
 Original module: `daggerheart-distances` by Mestre Digital / Bruno Calado, itself forked from `foundry_combat_distances`.
 
-**SRA2 - Host Links**
+# SRA2 - Host Links
 
 This module adds persistent visual links between Host/server tokens on a Scene.
 
@@ -84,7 +84,7 @@ Data/modules/sra2-host-links/scripts/main.mjs
 Data/modules/sra2-host-links/styles/main.css
 ```
 
-**SRA2 - Combat Turn Checkboxes**
+# SRA2 - Combat Turn Checkboxes
 
 ## Features
 
